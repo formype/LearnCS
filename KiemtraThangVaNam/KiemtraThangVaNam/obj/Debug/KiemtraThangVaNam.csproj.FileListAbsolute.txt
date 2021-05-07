@@ -1,0 +1,10 @@
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\bin\Debug\KiemtraThangVaNam.exe.config
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\bin\Debug\KiemtraThangVaNam.exe
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\bin\Debug\KiemtraThangVaNam.pdb
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.csprojAssemblyReference.cache
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.Form1.resources
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.Properties.Resources.resources
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.csproj.GenerateResource.cache
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.csproj.CoreCompileInputs.cache
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.exe
+C:\Users\NN\source\repos\KiemtraThangVaNam\KiemtraThangVaNam\obj\Debug\KiemtraThangVaNam.pdb
